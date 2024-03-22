@@ -1,12 +1,14 @@
 
-# Faq do PCC
+# Faq do Proj. Conclusão Curso
+
 Projeto de Conclusão de Curso
+
 5º Semestre
 **Atualizado em: 22/03/2024**
 
 
 ### **1. Qual data da entrega?**
- Data de entrega:___/__/___  Data da apresentação ___/__/___
+ Data de entrega: ___/__/2024  Data da apresentação ___/__/2024
 
 ### **2. Precisa ter 2 plataformas?**
 Não, basta ter 1 plataforma bem feito. Porém é claro, quando mais plataformas, desde que bem feito, ajuda a compor uma nota melhor.
